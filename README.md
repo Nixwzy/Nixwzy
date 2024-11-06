@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! I’m **Guilherme**, a **Software Engineering student** at Universidade Estácio de Sá in Rio de Janeiro, Brazil. I’m passionate about coding, problem-solving, and continuously learning new technologies to build efficient and scalable solutions. Here, I share my progress as I dive deeper into the world of software development.
 
+<p align="center">
+    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README.md"><span>English</span></a> |
+    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README_PTBR.md"><span>Português</span></a>
+</p>
+
 ## 🚀 About Me
 
 I’m currently expanding my knowledge in **Fullstack development**, focusing on both **frontend** and **backend** technologies. My goal is to create high-quality, user-friendly applications while enhancing my skills in building scalable, reliable systems. I believe in the power of open-source and collaboration to drive innovation and grow as a developer.
