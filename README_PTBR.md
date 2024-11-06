@@ -1,10 +1,15 @@
-# GitHub de Guilherme
+# 👋 Olá a todos!
 
-Bem-vindo ao meu perfil no GitHub! Eu sou **Guilherme**, **estudante de Engenharia de Software** na Universidade Estácio de Sá, no Rio de Janeiro, Brasil. Sou apaixonado por programação, resolução de problemas e estou sempre em busca de aprender novas tecnologias para criar soluções eficientes e escaláveis. Aqui, compartilho meu progresso enquanto me aprofundo no mundo do desenvolvimento de software.
+Bem-vindo ao meu perfil no GitHub! Eu sou **Guilherme**, **Estudante de Engenharia de Software** na Universidade Estácio de Sá, no Rio de Janeiro, Brasil. Sou apaixonado por programação, resolução de problemas e estou sempre em busca de aprender novas tecnologias para criar soluções eficientes e escaláveis. Aqui, compartilho meu progresso enquanto me aprofundo no mundo do desenvolvimento de software.
+
+<p align="center">
+    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README.md"><span>English</span></a> |
+    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README_PTBR.md"><span>Português</span></a>
+</p>
 
 ## 🚀 Sobre Mim
 
-Atualmente, estou expandindo meus conhecimentos em **desenvolvimento Fullstack**, com foco em tecnologias tanto de **frontend** quanto de **backend**. Meu objetivo é criar aplicações de alta qualidade e fáceis de usar, enquanto aprimoro minhas habilidades na construção de sistemas escaláveis e confiáveis. Acredito no poder do open-source e da colaboração para impulsionar a inovação e meu crescimento como desenvolvedor.
+Atualmente, estou expandindo meus conhecimentos em **Desenvolvimento Fullstack**, com foco em tecnologias tanto de **frontend** quanto de **backend**. Meu objetivo é criar aplicações de alta qualidade e fáceis de usar, enquanto aprimoro minhas habilidades na construção de sistemas escaláveis e confiáveis. Acredito no poder do open-source e da colaboração para impulsionar a inovação e meu crescimento como desenvolvedor.
 
 ### 📚 Aprendizado Atual
 - **Frontend**: HTML, CSS, JavaScript, ReactJS, VueJS, TailwindCSS, Bootstrap
