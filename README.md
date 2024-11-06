@@ -37,7 +37,7 @@ As part of my learning process, I’m actively working on:
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/glopesgl/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/glopesgl/)
 - **Email**: [glopesglcontato@gmail.com](mailto:glopesglcontato@gmail.com)
 
 I’m always open to connecting, collaborating, and learning with others. Feel free to reach out if you want to talk about technology, programming, or any exciting opportunities!
