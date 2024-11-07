@@ -1,7 +1,14 @@
-# Guilherme's GitHub
+# Guilherme's GitHub 🔭
 
-Welcome to my GitHub profile! I’m **Guilherme**, a **Software Engineering student** at Universidade Estácio de Sá in Rio de Janeiro, Brazil. I’m passionate about coding, problem-solving, and continuously learning new technologies to build efficient and scalable solutions. Here, I share my progress as I dive deeper into the world of software development.
+Welcome to my GitHub profile! I’m **Guilherme Lopes**, a **Software Engineering student** at Universidade Estácio de Sá in Rio de Janeiro, Brazil. I’m passionate about coding, problem-solving, and continuously learning new technologies to build efficient and scalable solutions. Here, I share my progress as I dive deeper into the world of software development.
+<div align="center">
+    <picture> 
+        <source srcset="https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true&theme=transparent">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true" />
+    </picture>
+</div>
 
+</br>
 <p align="center">
     <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README_PTBR.md"><span>Português</span></a> |
     <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README.md"><span>English</span></a>
@@ -12,27 +19,26 @@ Welcome to my GitHub profile! I’m **Guilherme**, a **Software Engineering stud
 
 I’m currently expanding my knowledge in **Fullstack development**, focusing on both **frontend** and **backend** technologies. My goal is to create high-quality, user-friendly applications while enhancing my skills in building scalable, reliable systems. I believe in the power of open-source and collaboration to drive innovation and grow as a developer.
 
-### 📚 Current Learning
-- **Frontend**: HTML, CSS, JavaScript, ReactJS, VueJS, TailwindCSS, Bootstrap
-- **Backend**: NodeJS, PHP, Laravel, TypeScript, Python
-- **Mobile**: React Native, Flutter
-- **Database**: SQL, Firebase
-- **DevOps & Tools**: Docker, Git, GitHub
+## 📚 Current Learning
 
-## 🌱 What I'm Working On
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</br>
+    At <a href="https://github.com/Nixwzy/learningFS" target="_blank">LearningFS</a>
+</div>
 
-As part of my learning process, I’m actively working on:
-- Deepening my knowledge in **backend technologies** and **databases**.
-- Enhancing my **problem-solving** and **algorithmic thinking** skills.
-- Building **real-world applications** that bridge the gap between theory and practice.
+## 🛠️ My Skills (Current)
 
-## 🛠️ My Skills
+<div align="center">
+   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mysql,php,postgresql,vscode,git&theme=light"/>
+</div>
 
-- **Languages**: JavaScript, Python, PHP, TypeScript, SQL 
-- **Frameworks**: ReactJS, NodeJS, Laravel, VueJS, React Native, Flutter
-- **Tools**: Git, GitHub, Docker, Firebase, TailwindCSS, Bootstrap
-- **Databases**: MySQL, MongoDB, Firebase
+</br> 
+<div align="center">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixwzy&layout=donut)](https://github.com/Nixwzy/learningFS)
+
+</div>
 ## 🎯 Goals & Aspirations
 
 - **Fullstack Development**: Master both frontend and backend technologies to become a proficient Fullstack developer.
@@ -43,8 +49,14 @@ As part of my learning process, I’m actively working on:
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/glopesgl/)
-- **Email**: [glopesglcontato@gmail.com](mailto:glopesglcontato@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/glopesgl/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   <a href="mailto:glopesglcontato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 I’m always open to connecting, collaborating, and learning with others. Feel free to reach out if you want to talk about technology, programming, or any exciting opportunities!
 
