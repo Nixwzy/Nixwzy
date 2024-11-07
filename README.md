@@ -2,12 +2,11 @@
 
 Welcome to my GitHub profile! I’m **Guilherme Lopes**, a **Software Engineering student** at Universidade Estácio de Sá in Rio de Janeiro, Brazil. I’m passionate about coding, problem-solving, and continuously learning new technologies to build efficient and scalable solutions. Here, I share my progress as I dive deeper into the world of software development.
 <div align="center">
-    <picture> 
-        <source srcset="https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true&theme=transparent">
-        <img src="https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true" />
-    </picture>
-</div>
 
+![Nixwzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true&theme=synthwave)
+
+
+</div>
 </br>
 <p align="center">
     <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README_PTBR.md"><span>Português</span></a> |
