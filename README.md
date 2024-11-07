@@ -38,6 +38,7 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixwzy&layout=donut)](https://github.com/Nixwzy/learningFS)
 
 </div>
+
 ## 🎯 Goals & Aspirations
 
 - **Fullstack Development**: Master both frontend and backend technologies to become a proficient Fullstack developer.
