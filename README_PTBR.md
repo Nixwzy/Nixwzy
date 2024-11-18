@@ -1,53 +1,63 @@
-# 👋 Olá a todos!
+# Meu GitHub 🔭
 
-Bem-vindo ao meu perfil no GitHub! Eu sou **Guilherme**, **Estudante de Engenharia de Software** na Universidade Estácio de Sá, no Rio de Janeiro, Brasil. Sou apaixonado por programação, resolução de problemas e estou sempre em busca de aprender novas tecnologias para criar soluções eficientes e escaláveis. Aqui, compartilho meu progresso enquanto me aprofundo no mundo do desenvolvimento de software.
+Bem-vindo ao meu perfil no GitHub! Eu sou **Guilherme Lopes**, estudante de **Engenharia de Software** na Universidade Estácio de Sá, no Rio de Janeiro, Brasil. Sou apaixonado por programação, resolução de problemas e pelo aprendizado contínuo de novas tecnologias para desenvolver soluções escaláveis e eficientes. Aqui, compartilho meu progresso enquanto mergulho mais fundo no mundo do desenvolvimento de software.
+<div align="center">
 
+![Estatísticas do GitHub de Nixwzy](https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true&theme=synthwave)
+
+</div>
+</br>
 <p align="center">
-    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README.md"><span>English</span></a> |
-    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README_PTBR.md"><span>Português</span></a>
+    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README_PTBR.md"><span>Português</span></a> |
+    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README.md"><span>Inglês</span></a>
 </p>
 
 ## 🚀 Sobre Mim
 
-Atualmente, estou expandindo meus conhecimentos em **Desenvolvimento Fullstack**, com foco em tecnologias tanto de **frontend** quanto de **backend**. Meu objetivo é criar aplicações de alta qualidade e fáceis de usar, enquanto aprimoro minhas habilidades na construção de sistemas escaláveis e confiáveis. Acredito no poder do open-source e da colaboração para impulsionar a inovação e meu crescimento como desenvolvedor.
+Atualmente, estou expandindo meus conhecimentos em **Desenvolvimento Fullstack**, focando tanto em tecnologias de **Front-End** quanto de **Back-End**. Meu objetivo é criar aplicações de alta qualidade e fáceis de usar, ao mesmo tempo em que aprimoro minhas habilidades para construir sistemas escaláveis e confiáveis. Acredito no poder do open-source e na colaboração como formas de impulsionar a inovação e crescer como desenvolvedor.
 
-### 📚 Aprendizado Atual
-- **Frontend**: HTML, CSS, JavaScript, ReactJS, VueJS, TailwindCSS, Bootstrap
-- **Backend**: NodeJS, PHP, Laravel, TypeScript, Python
-- **Mobile**: React Native, Flutter
-- **Banco de Dados**: SQL, Firebase
-- **DevOps & Ferramentas**: Docker, Git, GitHub
+## 📚 Aprendizado Atual
 
-## 🌱 No que Estou Trabalhando
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</br>
+    Em <a href="https://github.com/Nixwzy/learningFS" target="_blank">LearningFS</a>
+</div>
 
-Como parte do meu processo de aprendizado, estou trabalhando ativamente em:
-- Aprofundando meus conhecimentos em **tecnologias backend** e **bancos de dados**.
-- Melhorando minhas habilidades em **resolução de problemas** e **raciocínio algorítmico**.
-- Criando **aplicações reais** que conectam a teoria à prática.
+## 🛠️ Minhas Habilidades (Atuais)
 
-## 🛠️ Minhas Habilidades
+<div align="center">
+   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mysql,php,postgresql,vscode,git&theme=light"/>
+</div>
 
-- **Linguagens**: JavaScript, Python, PHP, TypeScript, SQL
-- **Frameworks**: ReactJS, NodeJS, Laravel, VueJS, React Native, Flutter
-- **Ferramentas**: Git, GitHub, Docker, Firebase, TailwindCSS, Bootstrap
-- **Banco de Dados**: MySQL, MongoDB, Firebase
+</br> 
+<div align="center">
 
-## 🎯 Objetivos & Aspirações
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixwzy&layout=donut)](https://github.com/Nixwzy/learningFS)
 
-- **Desenvolvimento Fullstack**: Dominar as tecnologias frontend e backend para me tornar um desenvolvedor Fullstack proficiente.
-- **Desenvolvimento de Apps Móveis**: Criar apps móveis com foco em desempenho e experiência do usuário.
-- **Contribuição para Open Source**: Contribuir para projetos open-source e aprender com a comunidade.
-- **Resolução de Problemas & Algoritmos**: Continuar melhorando minhas habilidades algorítmicas e enfrentando desafios complexos.
-- **Projetos Reais**: Criar projetos que resolvam problemas do mundo real e demonstrem as aplicações práticas das habilidades que estou aprendendo.
+</div>
+
+## 🎯 Metas & Aspirações
+
+- **Desenvolvimento Fullstack**: Dominar tecnologias de frontend e backend para me tornar um desenvolvedor Fullstack completo.
+- **Desenvolvimento de Aplicativos Móveis**: Criar aplicativos móveis focados em desempenho e experiência do usuário.
+- **Contribuição para Open Source**: Participar de projetos open-source e aprender com a comunidade.
+- **Resolução de Problemas & Algoritmos**: Continuar aprimorando minhas habilidades em algoritmos e enfrentando desafios complexos.
+- **Projetos Reais**: Desenvolver projetos que resolvam problemas reais e demonstrem aplicações práticas das habilidades que estou aprendendo.
 
 ## 🔗 Conecte-se Comigo
 
-- **LinkedIn**: [Meu perfil LinkedIn](https://www.linkedin.com/in/glopesgl/)
-- **E-mail**: [glopesglcontato@gmail.com](mailto:glopesglcontato@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/glopesgl/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   <a href="mailto:glopesglcontato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-Estou sempre aberto a conectar, colaborar e aprender com outros. Fique à vontade para entrar em contato caso queira falar sobre tecnologia, programação ou alguma oportunidade empolgante!
+Estou sempre aberto a conectar, colaborar e aprender com outras pessoas. Fique à vontade para entrar em contato se quiser conversar sobre tecnologia, programação ou oportunidades interessantes!
 
 ---
 
-Obrigado por visitar meu GitHub. Fique à vontade para conferir meus repositórios, fazer fork e contribuir se achar útil. Estou sempre ansioso para aprender e crescer, e aceito feedbacks e sugestões!
-"""
+Obrigado por visitar meu GitHub. Explore meus repositórios, faça fork deles e contribua se achar útil. Estou sempre ansioso para aprender e crescer, e aceito feedbacks e sugestões!
