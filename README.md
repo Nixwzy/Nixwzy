@@ -35,7 +35,7 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
 </br> 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixwzy&layout=donut)](https://github.com/Nixwzy/learningFS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixwzy&layout=donut)](https://github.com/Nixwzy)
 
 </div>
 
