@@ -2,9 +2,8 @@
 
 Welcome to my GitHub profile! I’m **Guilherme Lopes**, a **Software Engineering student** at Universidade Estácio de Sá in Rio de Janeiro, Brazil. I’m passionate about coding, problem-solving, and continuously learning new technologies to build efficient and scalable solutions. Here, I share my progress as I dive deeper into the world of software development.
 <div align="center">
-
-![Nixwzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true&theme=synthwave)
-
+    
+![Nixwzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true&theme=transparent)
 
 </div>
 </br>
@@ -34,9 +33,8 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
 
 </br> 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixwzy&layout=donut)](https://github.com/Nixwzy)
-
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixwzy&layout=donut&langs_count=5)](https://github.com/Nixwzy/github-readme-stats)
 </div>
 
 ## 🎯 Goals & Aspirations
