@@ -2,15 +2,16 @@
 
 Welcome to my GitHub profile! I’m **Guilherme Lopes**, a **Software Engineering student** at Universidade Estácio de Sá in Rio de Janeiro, Brazil. I’m passionate about coding, problem-solving, and continuously learning new technologies to build efficient and scalable solutions. Here, I share my progress as I dive deeper into the world of software development.
 <div align="center">
-    
+
+
 ![Nixwzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true&theme=transparent)
 
 </div>
-</br>
+
 <p align="center">
-    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README_PTBR.md"><span>Português</span></a> |
-    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README.md"><span>English</span></a>
-   
+    Click to access the corresponding README Language. <br/> <br/>
+    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README_PTBR.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/br.png"/></a>
+    <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png"/></a>
 </p>
 
 ## 🚀 About Me
@@ -54,6 +55,14 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
    <a href="mailto:glopesglcontato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+</div>
+
+<div align="center">
+<h3>My Website</h3>
+    
+[nixHub](https://nixwzy.github.io/nixHub/) (Under development)
+<br/>
+<br/>
 </div>
 
 I’m always open to connecting, collaborating, and learning with others. Feel free to reach out if you want to talk about technology, programming, or any exciting opportunities!
