@@ -21,7 +21,7 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
 ## 📚 Current Learning
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js" />
 </br>
     At <a href="https://github.com/Nixwzy/learningFS" target="_blank">LearningFS</a>
 </div>
