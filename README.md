@@ -65,7 +65,7 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
 <br/>
 </div>
 
-I’m always open to connecting, collaborating, and learning with others. Feel free to reach out if you want to talk about technology, programming, or any exciting opportunities!
+I’m always open to connecting, collaborating, and learning with others. Feel free to reach out if you want to talk about technology, programming, or any exciting opportunities! 
 
 ---
 
