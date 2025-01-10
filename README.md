@@ -29,7 +29,7 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
 ## 🛠️ My Skills (Current)
 
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mysql,php,postgresql,vscode,git&theme=light"/>
+   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,python,mysql,php,postgresql,vscode,git&theme=light"/>
 </div>
 
 </br> 
