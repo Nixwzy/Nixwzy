@@ -35,7 +35,7 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
 </br> 
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixwzy&layout=donut&langs_count=5)](https://github.com/Nixwzy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixwzy&hide=html,css&layout=donut&langs_count=5)](https://github.com/Nixwzy/github-readme-stats)
 </div>
 
 ## 🎯 Goals & Aspirations
