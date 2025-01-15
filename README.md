@@ -14,6 +14,14 @@ Welcome to my GitHub profile! I’m **Guilherme Lopes**, a **Software Engineerin
     <a href="https://github.com/Nixwzy/Nixwzy/blob/main/README.md"><img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/us.png"/></a>
 </p>
 
+## 🌐 NixHub
+I'm happy to announce the launch of NixHub – a centralized platform to showcase my professional journey, projects, and programming insights. <br>
+<div align="center">
+    Feel free to visit!<br>
+    🔗 <a  href="nixhub-portfolio.vercel.app" >NixHub </a>
+    
+</div>
+
 ## 🚀 About Me
 
 I’m currently expanding my knowledge in **Fullstack development**, focusing on both **frontend** and **backend** technologies. My goal is to create high-quality, user-friendly applications while enhancing my skills in building scalable, reliable systems. I believe in the power of open-source and collaboration to drive innovation and grow as a developer.
