@@ -29,7 +29,7 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
 ## 📚 Current Learning
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,tailwind,react,nextjs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,java,cs,cpp&theme=light" />
 </br>
     At <a href="https://github.com/Nixwzy/learningFS" target="_blank">LearningFS</a>
 </div>
@@ -37,8 +37,8 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
 ## 🛠️ My Skills (Current)
 
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nextjs&theme=light"/> </br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,php,postgresql,vscode,git&theme=light"/>
+   <img src="https://skillicons.dev/icons?i=java,python,js,typescript,php,tailwind,react,nextjs,cs,cpp&theme=light"/> </br>
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,vscode,git,html,css,c&theme=light"/>
 </div>
 
 </br> 
