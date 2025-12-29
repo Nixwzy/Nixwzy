@@ -1,12 +1,12 @@
 # Guilherme's GitHub 🔭
 
 Welcome to my GitHub profile! I’m **Guilherme Lopes**, a **Software Engineering student** at Universidade Estácio de Sá in Rio de Janeiro, Brazil. I’m passionate about coding, problem-solving, and continuously learning new technologies to build efficient and scalable solutions. Here, I share my progress as I dive deeper into the world of software development.
-<div align="center">
-
+<!-- <div align="center">
+TODO: FIX
 
 ![Nixwzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nixwzy&show_icons=true&theme=transparent)
 
-</div>
+</div> -->
 
 <p align="center">
     Click to access the corresponding README Language. <br/> <br/>
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I’m **Guilherme Lopes**, a **Software Engineerin
 I'm happy to announce the launch of NixHub – a centralized platform to showcase my professional journey, projects, and programming insights. <br>
 <div align="center">
     Feel free to visit!<br>
-    🔗 <a  href="https://nixhub-portfolio.vercel.app" >NixHub </a>
-    
+    🔗 <a  href="https://nixhub-portfolio.vercel.app" >NixHub (Abandoned)</a>
+
 </div>
 
 ## 🚀 About Me
@@ -64,14 +64,6 @@ I’m currently expanding my knowledge in **Fullstack development**, focusing on
    <a href="mailto:glopesglcontato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
-<div align="center">
-<h3>My Website</h3>
-    
-[nixHub](https://nixwzy.github.io/nixHub/) (Under development)
-<br/>
-<br/>
 </div>
 
 I’m always open to connecting, collaborating, and learning with others. Feel free to reach out if you want to talk about technology, programming, or any exciting opportunities! 
