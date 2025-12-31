@@ -18,7 +18,7 @@ TODO: FIX
 I'm happy to announce the launch of NixHub – a centralized platform to showcase my professional journey, projects, and programming insights. <br>
 <div align="center">
     Feel free to visit!<br>
-    🔗 <a  href="https://nixhub-portfolio.vercel.app" >NixHub (Abandoned)</a>
+    🔗 <a  href="https://nixhub-portfolio.vercel.app" >NixHub</a>
 
 </div>
 
